@@ -11,6 +11,9 @@ BOT_TOKEN = os.environ["8473133144:AAEiYJ4dInu_p2AcW8o6_NlcplkT9DFRVh0"]
 AMAZON_TAG = "pranay0d82-21"
 CUELINKS_ID = "257401"
 
+AMAZON_TAG = "pranay0d82-21"
+CUELINKS_ID = "257401"
+
 SOURCE_CHANNELS = [
     "iamprasadtech",
     "TeluguTechworld",
